@@ -1,0 +1,1 @@
+FROM gallowaystorm/alpine-base:latest
